@@ -1,0 +1,11 @@
+Na branch master
+
+Nenhum commit ainda
+
+Arquivos não rastreados:
+
+(use "git add <arquivo>..." para incluir no que será commitado)
+
+respostas.txt
+
+Nada adicionado ao commit, mas arquivos não rastreados presentes (use "git add" para rastrear)
