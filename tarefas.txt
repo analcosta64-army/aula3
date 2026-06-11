@@ -1,4 +1,3 @@
-comprar pão
 estudar git
 fazer exercícios
 ler documentação versionamento
