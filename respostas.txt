@@ -9,3 +9,15 @@ Arquivos não rastreados:
 respostas.txt
 
 Nada adicionado ao commit, mas arquivos não rastreados presentes (use "git add" para rastrear)
+
+diff --git a/tarefas.txt b/tarefas.txt
+index 7e873af..e014f07 100644
+--- a/tarefas.txt
++++ b/tarefas.txt
+@@ -1,3 +1,4 @@
+ comprar pão
+ estudar git
+-fazer exercícios
+\ No newline at end of file
++fazer exercícios
++ler documentação versionamento
