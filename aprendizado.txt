@@ -1,0 +1,5 @@
+git init(serve para iniciar o programa)
+git status(ele mostra como esta, se falta algo)
+git show(ele mostra as informaçoes e as modificaçoes exatas)
+como criar um arquivo no visual studio code
+git add(serve para incluir o que foi adicionado recentemente)
